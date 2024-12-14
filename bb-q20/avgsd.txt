@@ -1,0 +1,2 @@
+Avarage: 0.014621
+Standard Deviation: 0.004545
