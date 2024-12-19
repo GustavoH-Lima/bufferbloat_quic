@@ -14,4 +14,4 @@
 
 ### O artigo menciona um melhor balanceamento de cargas para que os usuários possam se conectar no servidor mais próximo, diminuindo a latência
 
-# Analisando dessa vez, outro artigo, temos que o TCP tende a sofrer mais de Bufferbloat em relação ao QUIC já que o TCP usa apenas um fluxo de dados. Devido ao uso de multíplas Streams do QUIC, ele apresenta mais vantagens em cenários de bufferbloat.
+# Analisando dessa vez, outro artigo o "Measuring internet performances with QUIC" , temos que o TCP tende a sofrer mais de Bufferbloat em relação ao QUIC já que o TCP usa apenas um fluxo de dados. Devido ao uso de multíplas Streams do QUIC, ele apresenta mais vantagens em cenários de bufferbloat.
